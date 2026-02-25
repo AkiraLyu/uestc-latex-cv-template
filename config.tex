@@ -115,3 +115,8 @@
 \def\customFontFamilyEN{\customFontFamilyCH} % 建议英文与中文用统一字体
 \def\fontFileTypeEN{\fontFileTypeCH} % 字体文件类型，.ttf/.otf
 \def\fontBoldFontEN{\fontBoldFontCH} % 粗体字体文件名
+\newif\ifuseDefaultFont
+\useDefaultFonttrue   % 控制开关
+\ifuseDefaultFont
+    \setmainfont{LXGW WenKai Screen} % 当使用系统默认字体时，请在这里设置
+\fi
