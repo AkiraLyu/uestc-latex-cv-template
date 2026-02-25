@@ -1,0 +1,7 @@
+*.ttf
+*.otf
+
+# LaTeX generated files
+*.aux
+*.log
+*.synctex.gz
