@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # LaTeX 中文简历模板
 
 ![Language: LaTeX](https://img.shields.io/badge/Language-LaTeX-blue) ![Subject: CV/Resume](https://img.shields.io/badge/Subject-CV%2FResume-yellowgreen) ![Author: XHS@吃鱼的虎](https://img.shields.io/badge/Author-%40Akira-ff69b4)
@@ -13,6 +14,8 @@
   ；若使用其他字体可能因为字体大小、字重、间距等问题在最终排版效果上与示例文档略有差异。
 </em>
 </p>
+
+[![简历预览](preview.png)](./main.pdf)
 
 ## 目录
 
