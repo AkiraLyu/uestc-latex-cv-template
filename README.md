@@ -50,7 +50,7 @@
 %       \addCourse{主修课程：...}
 %       \addEducationDescription{主修课程/GPA/综测（本科）/研究方向/导师（研究生）}
 
-\addEducation{电子科技大学}{本科}{四川，程度}{自动化工程学院}{自动化}{2022年9月--2026年6月}
+\addEducation{电子科技大学}{本科}{四川，成都}{自动化工程学院}{自动化}{2022年9月--2026年6月}
 \addCourse{主修课程：课程1、课程2、课程3、课程4等。}
 \addEducationDescription{GAP、排名、综合评价等}
 ```
